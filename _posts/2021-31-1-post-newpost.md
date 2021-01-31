@@ -15,7 +15,7 @@ title: MY Hackathon Project
 
 
 ![alt text](../assets/images/Screenshot.jpg "Team Picture")
-![alt text]("Team Picture")
+
 
 ---
 **Test**: This is atest
