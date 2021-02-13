@@ -33,11 +33,11 @@ title: Sonic project
 </audio>
 <br>
 
-![alt text](../assets/images/sonic1.jpg "Team Picture")
+![alt text](../assets/images/sonic1.jpg "عکس اول")
 
 <br>
 
-![alt text](../assets/images/sonic2.jpg "Team Picture")
+![alt text](../assets/images/sonic2.jpg "عکس دوم")
 
 ---
 **Test**: This is atest
