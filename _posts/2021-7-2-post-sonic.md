@@ -21,8 +21,6 @@ title: Sonic project
 چیزی که مشهود است اینست که آخر پروژه من از نت های بلند تر استفاده کردم که رهنمای پایان موسیقی بود 
 <br>
 سرانجام امیدوارم که از اولین تجربه موسیقی من نهایت لذت را برده باشید .
-<br>
-
 
 [my project](https://soundcloud.com/alireza-eslamikhah/mymusic)
 
