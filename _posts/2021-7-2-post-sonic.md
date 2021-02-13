@@ -13,7 +13,9 @@ title: Sonic project
 در آخر باید گفت که سعی شده در این پروژه نهایت دقت و نوت ها به دقت و صحت نواخته شوند. 
 
 
-[my projecr](https://soundcloud.com/alireza-eslamikhah/mymusic)
+[my project](https://soundcloud.com/alireza-eslamikhah/mymusic)
+<!-- ![alt text](../assets/mymusic.wav "my music") -->
+<embed src=“../assets/mymusic.wav”>, “../assets/mymusic.wav”
 
 ---
 **Test**: This is atest
