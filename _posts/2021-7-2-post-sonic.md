@@ -23,9 +23,6 @@ title: Sonic project
 سرانجام امیدوارم که از اولین تجربه موسیقی من نهایت لذت را برده باشید .
 
 [my project](https://soundcloud.com/alireza-eslamikhah/mymusic)
-
-<br>
-
 <audio controls>
     <source src = "../assets/music/mymusic.mp3" type = "audio/mp3">
 </audio>
