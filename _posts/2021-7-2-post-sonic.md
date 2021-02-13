@@ -2,6 +2,7 @@
 layout: posts
 title: Sonic project 
 ---
+
 <div align="right">
 
 ## پروژه سونیک من 
@@ -20,12 +21,12 @@ title: Sonic project
 <br>
 سرانجام امیدوارم که از اولین تجربه موسیقی من نهایت لذت را برده باشید .
 
-
+<br>
 [my project](https://soundcloud.com/alireza-eslamikhah/mymusic)
-
+<br>
 <audio controls>
     <source src = "../assets/music/mymusic.mp3" type = "audio/mp3">
 </audio>
-
+<br>
 ---
 **Test**: This is atest
