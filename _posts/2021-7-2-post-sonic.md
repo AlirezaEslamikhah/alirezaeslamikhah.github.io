@@ -32,6 +32,7 @@ title: Sonic project
 <br>
 
 ![alt text](../assets/images/sonic1.jpg "Team Picture")
+
 <br>
 
 ![alt text](../assets/images/sonic2.jpg "Team Picture")
