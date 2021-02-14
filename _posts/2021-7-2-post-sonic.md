@@ -32,7 +32,7 @@ title: Sonic project
 
 <br>
 
-![alt text](../assets/images/sonic2.jpg "عکس دوم")
+![my image](../assets/images/sonic2.jpg "عکس دوم")
 
 ---
 **Test**: This is atest
