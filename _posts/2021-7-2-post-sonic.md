@@ -28,11 +28,11 @@ title: Sonic project
     <source src = "../assets/music/mymusic.mp3" type = "audio/mp3">
 </audio>
 
-![my image](../assets/images/sonic1.jpg "عکس اول")
+![my image](../assets/images/sonic1.jpg)
 
 <br>
 
-![my image](../assets/images/sonic2.jpg "عکس دوم")
+![my image](../assets/images/sonic2.jpg)
 
 ---
 **Test**: This is atest
