@@ -27,7 +27,8 @@ title: Sonic project
 <audio controls>
     <source src = "../assets/music/mymusic.mp3" type = "audio/mp3">
 </audio>
-![alt text](../assets/images/sonic1.jpg "عکس اول")
+
+![my image](../assets/images/sonic1.jpg "عکس اول")
 
 <br>
 
