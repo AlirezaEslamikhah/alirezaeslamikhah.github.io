@@ -29,9 +29,6 @@ title: Sonic project
 </audio>
 
 ![my image](../assets/images/sonic1.jpg)
-
-<br>
-
 ![my image](../assets/images/sonic2.jpg)
 
 ---
