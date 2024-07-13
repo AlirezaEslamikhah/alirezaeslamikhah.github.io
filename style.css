@@ -148,3 +148,7 @@
     background-image: -webkit-linear-gradient(0deg, #ddadad 0%, #5c818a 100%);
     background-image: -ms-linear-gradient(0deg, #ddadad 0%, #5c818a 100%);
 }
+
+.bold {
+    font-weight: bold;
+}
